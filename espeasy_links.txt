@@ -1,0 +1,18 @@
+Strona projektu
+https://github.com/letscontrolit/
+
+BIN
+https://github.com/letscontrolit/ESPEasy
+
+Install ESPEasy
+https://td-er.nl/ESPEasy/
+
+Docs:
+https://espeasy.readthedocs.io/en/latest/Plugin/_Plugin.html#formula
+
+Wiki projektu
+https://www.letscontrolit.com/wiki/index.php?title=Main_Page
+
+GPIO
+https://www.letscontrolit.com/wiki/index.php/GPIO
+
