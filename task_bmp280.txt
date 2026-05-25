@@ -1,0 +1,4 @@
+- odczytac dane z BMP280
+- wyswietlic dane na wykresie - temperatura + cisnienie
+- wykres generowac w czasie rzeczywistym
+- dodac przycisk start-stop pomiarow
